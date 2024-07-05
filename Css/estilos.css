@@ -68,7 +68,7 @@ hr{
     body{
         font-family: Arial, sans-serif;
         width: 100%;
-        overflow: hidden;
+        overflow-x: hidden;
     }   
     .navegacion-principal{
         background-color: #346a34;
